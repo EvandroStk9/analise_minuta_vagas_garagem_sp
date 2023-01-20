@@ -6,7 +6,10 @@ Elaborada no âmbito do Projeto Acesso a Oportunidades no Plano Diretor de São 
 
 Dados EMBRAESP foram enviados pela ABRAINC mediante cooperação para o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo no dia 27/04/2021
 
-Em caso de dúvida para reprodução ou solicitação de dados, enviar email para: evandroluisalves13@gmail.com ou adrianoborgescosta@gmail.com
+Dados Complementares extraídos da plataforma GeoSampa e/ou produzidos pela equipe do Projeto
 
+Em caso de dúvidas e esclarecimentos sobre o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo, enviar email para: adrianoborgescosta@gmail.com
+
+Em caso de dúvidas e esclarecimentos para reprodução ou solicitação de dados, enviar email para: evandroluisalves13@gmail.com ou adrianoborgescosta@gmail.com
 
 
