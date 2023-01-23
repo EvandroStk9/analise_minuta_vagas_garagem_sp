@@ -53,7 +53,7 @@ rmarkdown::render(
   output_format = "word_document",
   output_dir = here::here("outputs", "Lancamentos"),
   output_file = 'embraesp_analise_vagas', 
-  output_options = list(toc = FALSE,
+  output_options = list(toc = TRUE,
                         reference_docx = here::here("inputs", "Complementares", "Insper",
                                                     "papel-timbrado-insper.docx")
   ))
