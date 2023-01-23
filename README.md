@@ -8,9 +8,7 @@ Elaborada no âmbito do Projeto Acesso a Oportunidades no Plano Diretor de São 
 
 **Dados**
 
-Dados EMBRAESP foram enviados pela ABRAINC mediante cooperação para o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo no dia 27/04/2022.
-
-A compra ou solicitação de dados para fins de pesquisa pode ser realizada por meio do contato com a EMBRAESP. Mais informações no link <https://embraesp.com.br/>.
+Dados EMBRAESP foram enviados pela ABRAINC mediante cooperação para o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo no dia 27/04/2022. A base original não foi compartilhada neste repositório público em função da natureza privada dos dados produzidos pela EMBRAESP. A compra ou solicitação de dados para fins de pesquisa pode ser realizada por meio do contato direto com a EMBRAESP. Mais informações no link <https://embraesp.com.br/>.
 
 Dados complementares extraídos da plataforma GeoSampa e/ou produzidos pela equipe do Projeto.
 
