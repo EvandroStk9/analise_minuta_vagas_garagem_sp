@@ -2,16 +2,16 @@
 
 **Contexto** 
 
-Nota Técnica sobre a nova proposta de limite de vagas de garagem prevista a minuta de lei da Revisão Intermediária do Plano Diretor Estratégico (PDE) de São Paulo
+Nota Técnica sobre a nova proposta de limite de vagas de garagem prevista a minuta de lei da Revisão Intermediária do Plano Diretor Estratégico (PDE) de São Paulo.
 
-Elaborada no âmbito do Projeto Acesso a Oportunidades no Plano Diretor de São Paulo do Laboratório ArqFuturo de Cidades do Insper entre os dias 16/01/2023 e 20/01/2023
-foi feita no Google Docs e a construção de figuras ilustrativas incluídas na nota técnica foi feita no Google Slides.
-
+Elaborada no âmbito do Projeto Acesso a Oportunidades no Plano Diretor de São Paulo do Laboratório ArqFuturo de Cidades do Insper entre os dias 16/01/2023 e 20/01/2023 
 **Dados**
 
-Dados EMBRAESP foram enviados pela ABRAINC mediante cooperação para o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo no dia 27/04/2022
+Dados EMBRAESP foram enviados pela ABRAINC mediante cooperação para o Projeto Acesso a Oportunidades no Plano Diretor de São Paulo no dia 27/04/2022.
 
-Dados complementares extraídos da plataforma GeoSampa e/ou produzidos pela equipe do Projeto
+A compra ou solicitação de dados para fins de pesquisa pode ser realizada por meio do contato com a EMBRAESP. Mais informações no link <https://embraesp.com.br/>.
+
+Dados complementares extraídos da plataforma GeoSampa e/ou produzidos pela equipe do Projeto.
 
 **Framework**
 
@@ -21,11 +21,11 @@ O tratamento dos dados EMBRAESP foi elaborado em R e se utiliza de alguns pacote
 
 Para a construção dos gráficos da nota técnica, foi realizada análise dos dados em RMarkdown e os gráficos foram colocados em documento docx.
 
-A escrita do texto da nota técnica foi realizada por meio do Google Docs. Outras imagens ilustrativas de pontos específicos foram produzidas por meio da feramenta Google Slides.
+A escrita do texto da nota técnica foi feita no Google Docs e a construção de figuras ilustrativas incluídas na nota técnica foi feita no Google Slides.
 
 **Como implementar o projeto?** 
 
-O script "analise_vagas_do.R" implementa a análise, de modo geral, requerendo nos seus procedimentos os scripts "embraesp_tratamento.R" - que faz o tratamento dos dados de lançamentos imobiliários EMBRAESP - e "embraesp_analise_vagas.Rmd" - que faz análise gráfica a partir dos dados tratados e exporta resultados para o documento word presente em "outputs/lancamentos/embraesp_analise_vagas.docx"
+O script "analise_vagas_do.R" implementa a análise, de modo geral, requerendo nos seus procedimentos os scripts "embraesp_tratamento.R" - que faz o tratamento dos dados de lançamentos imobiliários EMBRAESP - e "embraesp_analise_vagas.Rmd" - que faz análise gráfica a partir dos dados tratados e exporta resultados para o documento word presente em "outputs/lancamentos/embraesp_analise_vagas.docx":
 
       analise_vagas_do.R ➡ embraesp_tratamento.R & embraesp_analise_vagas.Rmd ➡ embraesp_analise_vagas.docx
   
