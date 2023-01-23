@@ -21,7 +21,7 @@ O tratamento dos dados EMBRAESP foi elaborado em R e se utiliza de alguns pacote
 
 Para a construção dos gráficos da nota técnica, foi realizada análise dos dados em RMarkdown e os gráficos foram colocados em documento docx.
 
-A escrita do texto da nota técnica 
+A escrita do texto da nota técnica foi realizada por meio do Google Docs. Outras imagens ilustrativas de pontos específicos foram produzidas por meio da feramenta Google Slides.
 
 **Como implementar o projeto?** 
 
